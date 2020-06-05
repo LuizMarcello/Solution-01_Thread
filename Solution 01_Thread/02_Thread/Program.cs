@@ -11,7 +11,7 @@ namespace _02_Thread
     {
         static void Main(string[] args)
         {
-            //Fluxo alternativo(paralelo)
+            //Criando um Fluxo alternativo(paralelo)
             Thread t1 = new Thread(ThreadRepeticao);
             t1.Start();
 
@@ -36,3 +36,4 @@ namespace _02_Thread
         }
     }
 }
+
