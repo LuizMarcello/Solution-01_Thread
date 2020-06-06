@@ -11,13 +11,13 @@ namespace _03_MultiThread
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("DataIni: " + DateTime.Now);
+
             for (int i = 0; i < 5; i++)
             {
                 Thread t1 = new Thread(ThreadRepeticao);
                 t1.Start();
             }
-
-            Console.WriteLine("Programa finalizado!");
             Console.ReadKey();
         }
 
@@ -30,6 +30,9 @@ namespace _03_MultiThread
             {
                 Console.WriteLine("Fluxo paraleleo: " + i);
             }
+            Console.WriteLine("DataIni: " + DateTime.Now);
         }
     }
 }
+
+            
