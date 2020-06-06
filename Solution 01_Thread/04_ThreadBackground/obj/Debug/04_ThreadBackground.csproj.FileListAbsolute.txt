@@ -1,0 +1,6 @@
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\04_ThreadBackground\bin\Debug\04_ThreadBackground.exe.config
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\04_ThreadBackground\bin\Debug\04_ThreadBackground.exe
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\04_ThreadBackground\bin\Debug\04_ThreadBackground.pdb
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\04_ThreadBackground\obj\Debug\04_ThreadBackground.csprojAssemblyReference.cache
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\04_ThreadBackground\obj\Debug\04_ThreadBackground.exe
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\04_ThreadBackground\obj\Debug\04_ThreadBackground.pdb
