@@ -1,0 +1,7 @@
+C:\Users\Usuario\Source\Repos\LuizMarcello\Solution-01_Thread\Solution 01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.exe.config
+C:\Users\Usuario\Source\Repos\LuizMarcello\Solution-01_Thread\Solution 01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.exe
+C:\Users\Usuario\Source\Repos\LuizMarcello\Solution-01_Thread\Solution 01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.pdb
+C:\Users\Usuario\Source\Repos\LuizMarcello\Solution-01_Thread\Solution 01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\LuizMarcello\Solution-01_Thread\Solution 01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\LuizMarcello\Solution-01_Thread\Solution 01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.exe
+C:\Users\Usuario\Source\Repos\LuizMarcello\Solution-01_Thread\Solution 01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.pdb
