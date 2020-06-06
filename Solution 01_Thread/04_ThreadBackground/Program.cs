@@ -19,7 +19,7 @@ namespace _04_ThreadBackground
                 //Esta propriedade fará com que as threads fiquem totalmente
                 //dependentes do fluxo principal, do "static void main".
                 //Quando ele está executando, eleas continuam, quando ele
-                //para, elas também param.
+                //para, elas também param. Muito bom!
                 t1.IsBackground = true;
                 t1.Start();
             }
