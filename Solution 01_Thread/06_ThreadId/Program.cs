@@ -9,6 +9,7 @@ namespace _06_ThreadId
 {
     class Program
     {
+        //Método main é a thread principal
         static void Main(string[] args)
         {
             //Este "for" será no fluxo principal
