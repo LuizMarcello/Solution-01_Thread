@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ThreadSafe", "05_ThreadS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ThreadId", "06_ThreadId\06_ThreadId.csproj", "{DA41F072-2C78-4066-85C6-C114200ED28B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ThreadMetodos", "07_ThreadMetodos\07_ThreadMetodos.csproj", "{E2B10F88-7549-48FE-A049-6B362BC9B88E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DA41F072-2C78-4066-85C6-C114200ED28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA41F072-2C78-4066-85C6-C114200ED28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA41F072-2C78-4066-85C6-C114200ED28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B10F88-7549-48FE-A049-6B362BC9B88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B10F88-7549-48FE-A049-6B362BC9B88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B10F88-7549-48FE-A049-6B362BC9B88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B10F88-7549-48FE-A049-6B362BC9B88E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
