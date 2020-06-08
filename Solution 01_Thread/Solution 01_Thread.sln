@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ThreadId", "06_ThreadId\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ThreadMetodos", "07_ThreadMetodos\07_ThreadMetodos.csproj", "{E2B10F88-7549-48FE-A049-6B362BC9B88E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_AutoManual", "08_AutoManual\08_AutoManual.csproj", "{BD9E5642-0D30-4975-9BF9-0301FD311911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{E2B10F88-7549-48FE-A049-6B362BC9B88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2B10F88-7549-48FE-A049-6B362BC9B88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2B10F88-7549-48FE-A049-6B362BC9B88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9E5642-0D30-4975-9BF9-0301FD311911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9E5642-0D30-4975-9BF9-0301FD311911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9E5642-0D30-4975-9BF9-0301FD311911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9E5642-0D30-4975-9BF9-0301FD311911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

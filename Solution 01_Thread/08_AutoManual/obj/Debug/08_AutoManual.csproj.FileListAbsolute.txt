@@ -1,0 +1,6 @@
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\08_AutoManual\bin\Debug\08_AutoManual.exe.config
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\08_AutoManual\bin\Debug\08_AutoManual.exe
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\08_AutoManual\bin\Debug\08_AutoManual.pdb
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\08_AutoManual\obj\Debug\08_AutoManual.csprojAssemblyReference.cache
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\08_AutoManual\obj\Debug\08_AutoManual.exe
+D:\cSharpAvancadoThreads\Solution-01_Thread\Solution 01_Thread\08_AutoManual\obj\Debug\08_AutoManual.pdb
